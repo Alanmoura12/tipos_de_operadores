@@ -13,8 +13,9 @@ x = (10 + 5) * 4
 y = (10 /2) + (25 * 2) - (2 ** 2) # ordem de execução é da esquerda para a direita
 
 
-print(x)
+print(x) 
 print(y)
+
 
 ## a ordem de é primeiro o 
 # parêntesis                ()
