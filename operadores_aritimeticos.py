@@ -20,5 +20,4 @@ print(y)
 # parêntesis                ()
 # Expoênte                  **
 # Multiplicação e divisão   * /   (da esquerda para a direita)
-# Soma e Subtração          + -   (da esquerda para a direita)
- 
+# Soma e Subtração          + -   (da esquerda para a direita) 
